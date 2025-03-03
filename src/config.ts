@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://dms-r.github.io/", // replace this with your deployed domain
   author: "Dimas",
   profile: "https://dms-r.github.io/about",
-  desc: "Wecome to my site 👋",
+  desc: "Dimas site.",
   title: "$ cd ~/",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
