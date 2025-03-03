@@ -1,10 +1,9 @@
 ---
-author: Dimas
 pubDatetime: 2025-03-03T17:30:00Z
 modDatetime: 2025-03-03T17:30:00Z
-title: Understanding Access Control Vulnerabilities in Web Applications
+title: Learn Access Control Vuln in Web Apps
 slug: learn-access-control
-featured: false
+featured: true
 draft: false
 tags:
   - Cybersecurity
