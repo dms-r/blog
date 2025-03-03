@@ -146,7 +146,7 @@ You can easily add your [Google Site Verification HTML tag](https://support.goog
 
 ```bash
 # in your environment variable file (.env)
-PUBLIC_GOOGLE_SITE_VERIFICATION=U_B6nWuGrbGZ03uU-jFpIutXuN0qQkdRW755rH78E2c
+PUBLIC_GOOGLE_SITE_VERIFICATION=your-google-site-verification-value
 ```
 
 > See [this discussion](https://github.com/satnaing/astro-paper/discussions/334#discussioncomment-10139247) for adding AstroPaper to the Google Search Console.
