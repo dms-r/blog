@@ -1,14 +1,16 @@
 ---
-author: Dimas
-pubDatetime: 2025-03-03T17:30:00Z
-title: Learn Access Control Vulnerabilities in Web Apps
+author: Sat Naing
+pubDatetime: 2022-09-23T15:22:00Z
+modDatetime: 2023-12-21T09:12:47.400Z
+title: Adding new posts in AstroPaper theme
+slug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
 tags:
-  - Cybersecurity
-  - IDOR
+  - docs
 description:
-  Delve deeper into the technicalities of access control vulnerabilities in web apps.
+  Some rules & recommendations for creating or adding new posts using AstroPaper
+  theme.
 ---
 
 Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
