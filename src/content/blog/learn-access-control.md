@@ -1,11 +1,11 @@
 ---
 pubDatetime: 2025-03-03T17:30:00Z
 title: Learn Access Control Vuln in Web Apps
-featured: false
+featured: true
 draft: false
 tags:
-  - Cybersecurity
-  - IDOR
+  - cybersecurity
+  - idor
 description:
   Delve deeper into the technicalities of access control vulnerabilities in web apps.
 ---
