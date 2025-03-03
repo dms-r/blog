@@ -4,8 +4,8 @@ export const SITE: Site = {
   website: "https://dms-r.github.io/", // replace this with your deployed domain
   author: "Dimas",
   profile: "https://dms-r.github.io/about",
-  desc: "Dimas site.",
-  title: "$ cd ~/",
+  desc: "",
+  title: "d-privat",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -35,7 +35,7 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Github",
     href: "https://github.com/dms-r/dms-r.github.io",
-    linkTitle: ` ${SITE.title} on Github`,
+    linkTitle: ` ${SITE.author} on Github`,
     active: true,
   },
   {
@@ -59,7 +59,7 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Mail",
     href: "mailto:huh.tiring872@passfwd.com",
-    linkTitle: `Send an email to ${SITE.title}`,
+    linkTitle: `Send an email to ${SITE.author}`,
     active: true,
   },
   {

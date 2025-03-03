@@ -1,8 +1,9 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Author"
 ---
 
+My name is Dimas, just student learn about coumputer science and economics.
 I am a high school student who has a great interest and curiosity in IT, especially cyber security and servers. I love to keep up to date with technology, look for security vulnerabilities, and see how to fix those security vulnerabilities.
 
 <div>

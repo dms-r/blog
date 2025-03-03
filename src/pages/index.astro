@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1>Dimas R.</h1>
+      <h1>Wellcome all 👋</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -42,15 +42,18 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        Just student learn about coumputer science and economics.  
-      </p>
-      <p>
-        Read the blog posts or check
+        Fell free to read the 
+        <LinkButton
+          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
+          href="https://dms-r.github.io/posts/"
+        >
+          post
+        </LinkButton> or check
         <LinkButton
           className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
           href="https://dms-r.github.io/about/"
         >
-          about
+          about author
         </LinkButton> for more info.
       </p>
       {
