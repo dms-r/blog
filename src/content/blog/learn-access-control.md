@@ -10,6 +10,8 @@ description:
   Delve deeper into the technicalities of access control vulnerabilities in web apps.
 ---
 
+## Table of contents
+
 ## Introduction
 
 Access control is a pivotal security mechanism in web applications, governing who or what can perform actions or access resources. This article delves into access control concepts, vulnerabilities, and mitigation strategies, building on insights from PortSwigger. It covers types of access controls, common weaknesses like privilege escalation, and practical prevention methods, enriched with technical examples and code snippets to illustrate key points.
