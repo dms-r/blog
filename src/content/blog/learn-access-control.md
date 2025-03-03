@@ -1,8 +1,7 @@
 ---
 pubDatetime: 2025-03-03T17:30:00Z
-modDatetime: 2025-03-03T17:30:00Z
 title: Learn Access Control Vuln in Web Apps
-featured: true
+featured: false
 draft: false
 tags:
   - Cybersecurity
