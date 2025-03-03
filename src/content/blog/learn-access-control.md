@@ -4,7 +4,7 @@ pubDatetime: 2025-03-03T17:30:00Z
 modDatetime: 2025-03-03T17:30:00Z
 title: Understanding Access Control Vulnerabilities in Web Applications
 slug: learn-access-control
-featured: true
+featured: false
 draft: false
 tags:
   - Cybersecurity
