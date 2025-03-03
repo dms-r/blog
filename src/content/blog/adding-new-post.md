@@ -1,10 +1,9 @@
 ---
 author: Dimas
 pubDatetime: 2025-03-03T17:30:00Z
-modDatetime: 2025-03-03T17:30:00Z
 title: Learn Access Control Vulnerabilities in Web Apps
 featured: true
-draft: true
+draft: false
 tags:
   - Cybersecurity
   - IDOR
