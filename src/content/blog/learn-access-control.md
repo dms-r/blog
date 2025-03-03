@@ -1,6 +1,8 @@
 ---
+author: Dimas
 pubDatetime: 2025-03-03T17:30:00Z
 title: Learn Access Control Vuln in Web Apps
+slug: learn-access-control-web-apps
 featured: true
 draft: false
 tags:
